@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+  lastUpdatedAtString: 2021-08-27T11:35:35.157+10:00
+  initializedAtString: 2021-08-27T10:25:22.634+10:00
+=======
+  lastUpdatedAtString: 2021-08-27T14:42:39.427+10:00
+  initializedAtString: 2021-08-27T12:36:28.314+10:00
+>>>>>>> Travis
+=======
+  lastUpdatedAtString: 2021-08-28T22:18:59.913+10:00
+  initializedAtString: 2021-08-28T19:28:14.019+10:00
+>>>>>>> Travis
+  localBranches:
+  - name: Jay
+    tracking: origin/Jay
+  - name: main
+    tracking: origin/main
+  - name: Mason
+    tracking: origin/Mason
+  - name: Travis
+    tracking: origin/Travis
+  remoteBranches:
+  - name: origin/Jay
+    tracking: '[None]'
+  - name: origin/main
+    tracking: '[None]'
+  - name: origin/Mason
+    tracking: '[None]'
+  - name: origin/Travis
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/TJeffery/Griffith-PacMan.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - Jay
+    - main
+    - Mason
+    - Travis
+    values:
+    - name: Jay
+      remote:
+        name: origin
+        url: https://github.com/TJeffery/Griffith-PacMan.git
+      trackingBranch: Jay
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/TJeffery/Griffith-PacMan.git
+      trackingBranch: main
+    - name: Mason
+      remote:
+        name: origin
+        url: https://github.com/TJeffery/Griffith-PacMan.git
+      trackingBranch: Mason
+    - name: Travis
+      remote:
+        name: origin
+        url: https://github.com/TJeffery/Griffith-PacMan.git
+      trackingBranch: Travis
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - Jay
+      - main
+      - Mason
+      - Travis
+    subKeyValues:
+    - Values:
+      - name: Jay
+        remote:
+          name: origin
+          url: https://github.com/TJeffery/Griffith-PacMan.git
+        trackingBranch: 
+      - name: main
+        remote:
+          name: origin
+          url: https://github.com/TJeffery/Griffith-PacMan.git
+        trackingBranch: 
+      - name: Mason
+        remote:
+          name: origin
+          url: https://github.com/TJeffery/Griffith-PacMan.git
+        trackingBranch: 
+      - name: Travis
+        remote:
+          name: origin
+          url: https://github.com/TJeffery/Griffith-PacMan.git
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/TJeffery/Griffith-PacMan.git
